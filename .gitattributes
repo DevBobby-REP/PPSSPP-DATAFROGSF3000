@@ -12,3 +12,4 @@
 # To avoid mucking up the utf-8 characters.
 Core/Dialog/PSPOskConstants.cpp binary
 ppsspp-src.zip filter=lfs diff=lfs merge=lfs -text
+ 
