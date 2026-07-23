@@ -143,15 +143,9 @@ Save the file.
 - ✅ PBP
 - ✅ ELF
 - ✅ PRX
-
-## Current status of unsupported formats
-
-⚠️ **ISO, CHD, and CSO formats are currently NOT working.**
-
-Attempting to launch an ISO, CHD, or CSO file will result in the following:
-
-- Black screen
-- Emulator crash
+- ❓ ISO | Some games launch, others don't.
+- ❓CSO | YES\NO ?
+- ❓CHD | YES\NO ?
 
 ---
 
