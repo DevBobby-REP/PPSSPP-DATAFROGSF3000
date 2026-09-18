@@ -1,5 +1,9 @@
 # PPSSPP Port for Data Frog SF3000
 
+> ☹️ **The project is frozen.**
+>
+> The project is on hold for the time being! Don't expect any updates in the coming months. It has become very difficult to continue updating the project due to code-related issues; code changes have proven almost useless, as I haven't seen any FPS gains. I won't release an update until I achieve a stable 30 FPS. I will continue working on the project locally. Thanks to everyone who supported it!
+
 > ⚠️ **Experimental Project**
 >
 > This port of **PPSSPP** for the **Data Frog SF3000** is intended **only for experimental purposes**. Development will continue gradually. Expect bugs, crashes, and very low performance.
